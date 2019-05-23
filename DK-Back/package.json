@@ -1,0 +1,16 @@
+{
+  "name": "dk-back",
+  "version": "1.0.0",
+  "description": "Nana-Go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./dist/index.js"
+  },
+  "author": "DK",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "sequelize": "^5.8.6"
+  }
+}

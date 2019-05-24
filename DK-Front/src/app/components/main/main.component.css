@@ -1,0 +1,8 @@
+.fondo{
+    background-image: url(https://www.soloparamadres.com/pics/2016/09/elegir-una-canguro-1.jpg);
+    height: 100vh;
+}
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
